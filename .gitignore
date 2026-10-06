@@ -1,0 +1,9 @@
+# Client documents with real customer data. Never commit.
+client-samples/
+
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log
+node_modules/
