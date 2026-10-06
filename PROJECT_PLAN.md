@@ -23,7 +23,7 @@ How to read it:
 | 6 | Launch | Not started |
 | 7 | Maintain | Not started |
 
-**Current focus:** finish setup (remote git copy), then draft the discovery questions for Anton.
+**Current focus:** owner reviews the discovery questions, then holds the first session with Anton.
 
 ## 0. Project setup
 
@@ -35,7 +35,7 @@ Done when: the project folder is under version control with a private remote cop
 - [x] Start git in the project folder
 - [x] Keep client documents out of git (`client-samples/` is excluded)
 - [x] First commit
-- [ ] Connect the private GitHub repository and push
+- [x] Connect the private GitHub repository and push
 - [ ] Confirm contract terms with RiskCON, including that the owner keeps ownership of the code
 
 ## 1. Discovery
@@ -45,7 +45,8 @@ Done when: there is a written requirements document that Anton has read and agre
 - [x] Record the client's problems with Drive NDT
 - [x] Review sample MT report
 - [x] Review sample field work order
-- [ ] Draft the discovery question list
+- [x] Draft the discovery question list (`docs/discovery-questions.md`)
+- [ ] Owner reviews the question list
 - [ ] Hold discovery session(s) with Anton
 - [ ] Collect sample reports for every other NDT method RiskCON performs
 - [ ] Map the workflow from job intake to report delivery

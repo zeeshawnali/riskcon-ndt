@@ -187,3 +187,4 @@ See `PROJECT_PLAN.md` for the full tracker.
 
 - 2026-10-06: Document created. Project approach, stages and initial decisions recorded.
 - 2026-10-06: Sample MT report and field work order reviewed; findings, new requirements and new open questions added. Client identified as RiskCON. Git decided.
+- 2026-10-06: Project folder renamed to `Riskcon-NDT-App`. Sample PDFs moved to `client-samples/` and excluded from git. `PROJECT_PLAN.md` added.
